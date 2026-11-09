@@ -1,0 +1,81 @@
+{
+  "artigos": 10,
+  "projetos": 12,
+  "capitulos": 4,
+  "trabalhos_tecnicos": 13,
+  "formacao": 4,
+  "projetos_lattes": [
+    [
+      "2004",
+      "2005",
+      "CONCLUIDO",
+      "Compartimentação geomorfológica da zona costeira de Soure e Salvaterra (ilha de Marajó):mapeamento preliminar e subsidios ao gerenciamento costeiro do Estado do Pará"
+    ],
+    [
+      "2005",
+      "2007",
+      "CONCLUIDO",
+      "Dinâmica ambiental da Zona costeira de Soure e Salvaterra (Ilha de Marajó - Pará)"
+    ],
+    [
+      "2005",
+      "2006",
+      "CONCLUIDO",
+      "ZONEAMENTO ECOLÓGICA - ECONÔMICO DA ÁREA DE INFLUENCIA DA BR - 163"
+    ],
+    [
+      "2007",
+      "2007",
+      "DESATIVADO",
+      "ANTENANDO O USUÁRIO"
+    ],
+    [
+      "2007",
+      "2009",
+      "CONCLUIDO",
+      "Programa de Monitoramento de Áreas Especiais - ProAE"
+    ],
+    [
+      "2007",
+      "2008",
+      "CONCLUIDO",
+      "SIG DOS PORTOS"
+    ],
+    [
+      "2007",
+      "2007",
+      "DESATIVADO",
+      "SIPAM NA ESCOLA"
+    ],
+    [
+      "2008",
+      "2012",
+      "CONCLUIDO",
+      "TerraClass"
+    ],
+    [
+      "2010",
+      "",
+      "EM_ANDAMENTO",
+      "Capacitação em Monitoramento de Florestas Tropicais"
+    ],
+    [
+      "2014",
+      "2017",
+      "CONCLUIDO",
+      "Monitoramento Ambiental por Satélite no Bioma Amazônia"
+    ],
+    [
+      "2021",
+      "2024",
+      "CONCLUIDO",
+      "TerraClass"
+    ],
+    [
+      "2024",
+      "",
+      "EM_ANDAMENTO",
+      "DETER"
+    ]
+  ]
+}
