@@ -49,7 +49,7 @@ Atualmente, é Líder do Projeto DETER Amazônia no **Instituto Nacional de Pesq
 
 Sensoriamento remoto · Geoprocessamento · Análise espacial · Séries temporais · Aprendizado de máquina · Processamento digital de imagens · Monitoramento ambiental por satélite.
 
-*As ferramentas e linguagens específicas devem ser acrescentadas conforme a experiência que você queira evidenciar publicamente (por exemplo, Python, Google Earth Engine, QGIS, GDAL, R, SQL/PostGIS e plataformas de dados geoespaciais).* 
+*As ferramentas e linguagens: Python, Google Earth Engine, QGIS, GDAL, R, SQL/PostGIS e plataformas de dados geoespaciais* 
 
 ## Links
 
